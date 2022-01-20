@@ -1,0 +1,7 @@
+1. Building the Model (Notebook)
+
+2. Deploy the model as an API
+
+3. Build a frontend for consumption
+
+4. Ask user to rate the comment (to be able to retrain the model)
